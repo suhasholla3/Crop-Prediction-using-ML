@@ -13,3 +13,6 @@ Weather forecast data obtained from IMD (Indian Metrological Department) such as
 temperature and rainfall and soil parameters repository gives insight into which crops are
 suitable to be cultivated in a particular area. This work presents a system to predict the most
 profitable crop in the current weather and soil conditions.
+
+
+# THIS WAS DONE IN PURPOSE FOR FINAL YEAR ENGINEERING PROJECT
